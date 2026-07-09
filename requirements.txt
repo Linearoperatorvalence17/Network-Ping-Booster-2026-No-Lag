@@ -1,0 +1,7 @@
+mouse
+pynput
+scipy
+rich
+tqdm
+pywin32
+keyboard
